@@ -1,0 +1,68 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`bookList Component should have right booklist snapshot 1`] = `
+<div>
+  <h3>
+     BookList Component 
+  </h3>
+  <p
+    data-testid="heading"
+  >
+    Wel­come to My Fa­vorite Book Por­tal
+  </p>
+  <p>
+    PonniyinSelvan-I
+  </p>
+  <p>
+    Harry Potter and Deathly Hollows
+  </p>
+  <p>
+    Harry Potter and the chamber of secrets
+  </p>
+  <p>
+    Harry Potter and the half Blood Prince
+  </p>
+  <br />
+  <br />
+  <br />
+  <div>
+    <h3>
+      Book Component
+    </h3>
+    <p
+      data-testid="booklist1"
+    >
+      PonniyinSelvan-I
+    </p>
+    <p
+      data-testid="booklist2"
+    >
+      Harry Potter and Deathly Hollows
+    </p>
+    <p
+      data-testid="booklist3"
+    >
+      Harry Potter and the chamber of secrets
+    </p>
+    <p
+      data-testid="booklist4"
+    >
+      Harry Potter and the half Blood Prince
+    </p>
+    <br />
+    <button
+      data-testid="Readingbtn"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "lightblue",
+          "margin": "20px 40px",
+          "padding": "10px 20px",
+        }
+      }
+    >
+      Add to Read­ing List
+    </button>
+  </div>
+</div>
+`;
